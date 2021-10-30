@@ -1,10 +1,10 @@
 # Zyro-Userbot
 
-Zyro Userbot adalah userbot
+`Zyro Userbot adalah userbot`
 
-Dengan memiliki fitur Menarik dan Menyenangkan.
+`Dengan memiliki fitur Menarik dan Menyenangkan.`
 
-Maaci yang uda pake <3
+`Maaci yang uda pake <3`
 
 </a>![cooltext396610192251454](https://user-images.githubusercontent.com/86257395/139540411-f65f2950-e980-441c-b986-d61bd299c4bd.png)
 
@@ -25,6 +25,11 @@ Maaci yang uda pake <3
   
  ![Zyro Userbot Logo](https://telegra.ph/file/f71c25a6aa58bd5a89f6a.jpg)
   
+  <h4 align="center">
+    <a href="https://t.me/zyroscopebot" target="blank"><img src="https://img.shields.io/badge/BOT-Zyroscopebot-blue?&logo=Telegram"/>
+    <a href="https://instagram.com/akbarnfal" target="blank"><img src="https://img.shields.io/badge/@akbarnfal-30302f?style=flat&logo=instagram"/>
+    <a href="https://t.me/zyroupdate" target="blank"><img src="https://img.shields.io/badge/CH-Zyro Update-blue?&logo=Telegram"/>
+  
  <h4 align="center"> DISCLAIMER </p>
 
 ```
@@ -36,7 +41,7 @@ Maaci yang uda pake <3
   Jangan pernah sekali sekali menyalah gunakan repository ini
 ```
 
-### Repository King Userbot 👑
+### Repository Zyro Userbot 👑
 Repository Yang Dikelola oleh [Nopal](https://t.me/akbarnfal) Dari Berbagai Repository Userbot yang ada di Github 
 
 `
@@ -53,7 +58,7 @@ Klik tombol di bawah untuk join ke group support kami`
 Klik tombol di samping untuk membuat string milikmu`
    [![Run on Repl.it](https://repl.it/badge/github/STARKGANG/friday)](https://replit.com/@apisuserbot/String-Session?v=1)
 
-### <p align="left">📍 Deploy Zyro-Userbot 📍</p>
+### <p align="left">📍 Deploy Zyro Userbot 📍</p>
 `
 Klik tombol dibawah untuk deploy Zyro Userbot milikmu`
 
