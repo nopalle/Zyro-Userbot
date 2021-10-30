@@ -46,32 +46,41 @@ Repository Yang Dikelola oleh [Nopal](https://t.me/akbarnfal) Dari Berbagai Repo
 
 `
 Userbot digunakan untuk bersenang senang di telegram, ada beberapa fitur yg mungkin dapat membantu kamu tanpa harus mengakses apk lain`
+      
 
 ### Group Support
+      
 `
 Klik tombol di bawah untuk join ke group support kami`
    <a href="https://t.me/joinsinidongg"><img src="https://img.shields.io/badge/Grup%20Support%3F-Zyro-green?&style=flat-square?&logo=telegram" width=165px></a></p>
    
    
 ### String Session
+      
 `
 Klik tombol di samping untuk membuat string milikmu`
    [![Run on Repl.it](https://repl.it/badge/github/STARKGANG/friday)](https://replit.com/@apisuserbot/String-Session?v=1)
+      
 
 ### <p align="left"> Deploy Zyro Userbot</p>
+      
 `
 Klik tombol dibawah untuk deploy Zyro Userbot milikmu`
 
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/nopalle/Zyro-Userbot/tree/Zyro-Userbot"> <img src="https://img.shields.io/badge/Deploy%20Ke%20Heroku-black?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
+      
 
 <br>
 </p>
 
+      
 ## Kredit
+      
   Terimakasih untuk 
 
 *   [King](https://github.com/apisuserbot)
 *   [Skyzu](https://github.com/Skzyuu)
+      
 
 ## License
 Licensed under [Raphielscape Public License](https://github.com/nopalle/Zyro-Userbot/blob/Zyro-Userbot/LICENSE) - Version 1.d, February 2020
