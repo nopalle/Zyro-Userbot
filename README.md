@@ -41,7 +41,7 @@
   Jangan pernah sekali sekali menyalah gunakan repository ini
 ```
 
-### Repository Zyro Userbot 👑
+### Repository Zyro Userbot
 Repository Yang Dikelola oleh [Nopal](https://t.me/akbarnfal) Dari Berbagai Repository Userbot yang ada di Github 
 
 `
@@ -53,12 +53,12 @@ Klik tombol di bawah untuk join ke group support kami`
    <a href="https://t.me/joinsinidongg"><img src="https://img.shields.io/badge/Grup%20Support%3F-Zyro-green?&style=flat-square?&logo=telegram" width=165px></a></p>
    
    
-### String Session 🖇
+### String Session
 `
 Klik tombol di samping untuk membuat string milikmu`
    [![Run on Repl.it](https://repl.it/badge/github/STARKGANG/friday)](https://replit.com/@apisuserbot/String-Session?v=1)
 
-### <p align="left">📍 Deploy Zyro Userbot 📍</p>
+### <p align="left"> Deploy Zyro Userbot</p>
 `
 Klik tombol dibawah untuk deploy Zyro Userbot milikmu`
 
