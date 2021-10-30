@@ -47,7 +47,7 @@ Repository Yang Dikelola oleh [Nopal](https://t.me/akbarnfal) Dari Berbagai Repo
 `
 Userbot digunakan untuk bersenang senang di telegram, ada beberapa fitur yg mungkin dapat membantu kamu tanpa harus mengakses apk lain`
 
-### Group Support 🇮🇩
+### Group Support
 `
 Klik tombol di bawah untuk join ke group support kami`
    <a href="https://t.me/joinsinidongg"><img src="https://img.shields.io/badge/Grup%20Support%3F-Zyro-green?&style=flat-square?&logo=telegram" width=165px></a></p>
